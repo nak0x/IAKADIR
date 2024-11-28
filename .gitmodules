@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:nak0x/iakadir-app.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:nak0x/iakadir-backend.git
